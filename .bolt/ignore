@@ -1,4 +1,8 @@
-\__tests__\*
-\public\*
-\contexts\*
-\components\*
+__tests__/*
+public/*
+contexts/*
+components/*
+e2e/*
+hooks/*
+pages/*
+utils/*
